@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Exprience = () => {
+const MyExprience = () => {
     return (
         <div
             name="about"
@@ -14,9 +14,7 @@ const Exprience = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    I am a proficient and dynamic MERN Stack Developer with a passion for crafting scalable web applications.
-
-                    I am working in the MERN (Html,Css, Tailwind, Bootstrap, JavaScript and React.js, Node.js) technology stack, demonstrating a comprehensive understanding of both front-end and back-end development. I can create interactive and user-friendly interfaces, ensuring a seamless and engaging user experience. The expertise extends to crafting responsive and visually appealing UIs that align with the latest design principles and user experience best practices.
+                My expertise lies in harnessing the power of JavaScript and its associated technologies - ReactJs for dynamic front-end experiences, NodeJs and ExpressJs for robust server-side development, along with MongoDB for efficient and scalable database solutions. I am also in the learning zone of Typescript and NextJs.
 
                 </p>
 
@@ -30,4 +28,4 @@ const Exprience = () => {
     );
 };
 
-export default Exprience;
+export default MyExprience;
