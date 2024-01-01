@@ -56,12 +56,15 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+              <div className="flex items-center mt-6 justify-center">
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
                   <a target="_blank" rel="noreferrer" href="https://various-partner.surge.sh/">Demo</a>
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/community-food-sharing-client">Code</a>
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-client">Client Code</a>
+                </button>
+                <button className=" px-3 py-3 duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-server">Server Code</a>
                 </button>
               </div>
             </div>
@@ -72,12 +75,15 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+              <div className="flex items-center mt-6 justify-center">
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
                   <a target="_blank" rel="noreferrer" href="https://various-partner.surge.sh/">Demo</a>
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/community-food-sharing-client">Code</a>
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-client">Client Code</a>
+                </button>
+                <button className=" px-3 py-3 duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-server">Server Code</a>
                 </button>
               </div>
             </div>
@@ -88,12 +94,15 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+              <div className="flex items-center mt-6 justify-center">
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
                   <a target="_blank" rel="noreferrer" href="https://various-partner.surge.sh/">Demo</a>
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/community-food-sharing-client">Code</a>
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-client">Client Code</a>
+                </button>
+                <button className=" px-3 py-3 duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-server">Server Code</a>
                 </button>
               </div>
             </div>
@@ -104,12 +113,15 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+              <div className="flex items-center mt-6 justify-center">
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
                   <a target="_blank" rel="noreferrer" href="https://various-partner.surge.sh/">Demo</a>
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/community-food-sharing-client">Code</a>
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-client">Client Code</a>
+                </button>
+                <button className=" px-3 py-3 duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-server">Server Code</a>
                 </button>
               </div>
             </div>
@@ -139,12 +151,15 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+              <div className="flex items-center mt-6 justify-center">
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
                   <a target="_blank" rel="noreferrer" href="https://various-partner.surge.sh/">Demo</a>
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/community-food-sharing-client">Code</a>
+                <button className=" px-3 py-3  duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-client">Client Code</a>
+                </button>
+                <button className=" px-3 py-3 duration-200 hover:scale-105">
+                <a target="_blank" rel="noreferrer" href="https://github.com/SuronjoyRoy/student-class-management-server">Server Code</a>
                 </button>
               </div>
             </div>
